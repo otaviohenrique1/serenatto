@@ -4,6 +4,10 @@
 
 Projeto de landing page feito no curso de 'Bootstrap 5 novos recursos e práticas recomendadas de HTML, CSS e JavaScript' da Alura.
 
+## Link da pagina
+
+- [Link](https://otaviohenrique1.github.io/serenatto/)
+
 ## Scripts
 
 - 'npm install' => Instala os pacotes
